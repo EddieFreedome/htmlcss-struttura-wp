@@ -31,6 +31,12 @@ header {
     height: 400px;
 }
 
+.column-container .colonna {
+    background-color: lightskyblue;
+    
+
+}
+
 /*footer*/
 
 footer {
