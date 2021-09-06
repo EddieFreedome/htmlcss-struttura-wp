@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
+/*header*/
+
+header {
+    background-color: rgb(229, 127, 255);
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+/*main1*/
+
+.blocco1 {
+    background-color: burlywood;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+/*colonne*/
+.column-container {
+    background-color: rgb(44, 92, 250);
+    height: 400px;
+}
+
+/*footer*/
+
+footer {
+    background-color: purple;
+    height: 150px;
+}
